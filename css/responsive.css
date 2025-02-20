@@ -373,7 +373,7 @@
     }
 }
 @media (max-width: 680px){
-    .for-desktop{
+    .for-dektop{
         display: none;
     }
     .for-phone{
